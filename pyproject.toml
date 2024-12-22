@@ -1,0 +1,13 @@
+[project]
+name = "engr-131-template"
+version = "0.1.0"
+description = "TBD"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+  "ipykernel>=6.29.5",
+  "mypy>=1.14.0",
+  "otter-grader>=6.0.4",
+  "pykubegrader>=0.1.9",
+  "ruff>=0.8.4",
+]
